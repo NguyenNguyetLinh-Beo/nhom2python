@@ -21,9 +21,10 @@ Yêu cầu:
 - Tính toán giá thành gửi xe của từng người, xuất thông tin những người đã gửi xe trên 20k
 - Ghi dữ liệu vào trong file excel
 # Bài làm
-bài 1
-
+bài 1  
+![{E4E1167D-CBF4-40EC-B248-2BE5C9515D7A}](https://github.com/user-attachments/assets/3ce840af-db91-4a45-9b44-a885d616b4f9)  
+![{A5F7302F-2C9C-46BA-8C43-DFCB45EE960C}](https://github.com/user-attachments/assets/071223c0-a4d4-46fb-9389-9740eb7e718e)  
 bài 2  
-  ![{C2DC3582-41C4-45B6-B5ED-558D54D32CBC}](https://github.com/user-attachments/assets/95535d54-18b9-4c9e-bf7e-dd94af46ccba)
+  ![{C2DC3582-41C4-45B6-B5ED-558D54D32CBC}](https://github.com/user-attachments/assets/95535d54-18b9-4c9e-bf7e-dd94af46ccba)  
 Bài 3 Quản lý nhà để xe bằng OOP  
  ![{D5355AE8-62AE-4C17-A0DB-BBB6ADA02944}](https://github.com/user-attachments/assets/1aed02d0-971d-408e-9963-8b4283e46cc8)
